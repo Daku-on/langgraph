@@ -29,8 +29,8 @@ AI役員（CEO、CTO、CMO、CFO）による取締役会議をシミュレート
 
 ```bash
 # リポジトリをクローン
-git clone https://github.com/Daku-on/langgraph.git
-cd langgraph
+git clone https://github.com/Daku-on/ai-executive-board-simulator.git
+cd ai-executive-board-simulator
 
 # 依存関係をインストール
 uv sync
@@ -203,8 +203,8 @@ Simulates board meetings with AI executives (CEO, CTO, CMO, CFO). Each executive
 
 ```bash
 # Clone the repository
-git clone https://github.com/Daku-on/langgraph.git
-cd langgraph
+git clone https://github.com/Daku-on/ai-executive-board-simulator.git
+cd ai-executive-board-simulator
 
 # Install dependencies
 uv sync
